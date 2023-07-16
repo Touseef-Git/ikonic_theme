@@ -1,0 +1,8 @@
+.rest_countries {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.res_single_country {
+    display: flex;
+    column-gap: 5px;
+}
